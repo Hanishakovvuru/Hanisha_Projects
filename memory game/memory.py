@@ -1,4 +1,4 @@
-# Memory game by Hanisha Kovvuru
+# Memory game by Hanisha Kovvuru using Pygame
 # The player tries to find two matching tiles by selecting tiles from a rectangular grid.
 # A single-person game that tracks the score of the player as the time taken to complete the game, where a lower score is better.
 # Multiple players can take turns playing the game and compete by comparing their scores.
